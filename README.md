@@ -12,3 +12,6 @@ pip install "transformers[torch]"
 pip install scikit-learn
 
 ```
+
+## Demo
+In `demo.py` you can run the simple demo project.
